@@ -4,7 +4,7 @@
 * * *
 ### 1. Season Semester(The world of Theater)
 * * *
-### 2. C++ & Reversing study
+### 2. Data structure and Algorithm(C++) & Reversing study
 * * *
 ### 3. CTFs study
 
