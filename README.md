@@ -1,11 +1,17 @@
 # Tobecert & 1999.08.29's Pleasure
 * * *
-## 2018 winter vacation----
+## 2019-1 My Plan In Sophomore Class----
 * * *
-### 1. Season Semester(The world of Theater)
+### 1. Grade Management
 * * *
-### 2. Data structure and Algorithm(C++) & Reversing study
+### 2. Data structure and OOP master
 * * *
-### 3. CTFs study
+### 3. CTFs study and Reversing study
+* * *
+### 4. C languange TA
+* * *
+### 5. Development security Contest
+* * *
+### 6. Cryptographic support project
 
 
